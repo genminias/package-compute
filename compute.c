@@ -27,6 +27,7 @@
         - package.c source file, opened and running in a separate terminal
         - proj.h header file
         - makefile
+        - gaminias text file (for message queu key)
         - the .dat files that go along with package.c
 
     COMMAND:

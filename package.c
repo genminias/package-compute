@@ -28,6 +28,7 @@
         - compute.c source file, opened and running in a separate terminal
         - proj.h header file
         - makefile
+        - gaminias text file (for message queue key)
         - two input .dat files, each containing a matrix:
             - rows
             - columns
